@@ -4,6 +4,8 @@ about: "Submit a permitted listening link and production details"
 title: "[Recording] Book chapter — version"
 ---
 
+This is a volunteer effort, not for profit. All tools and musical styles are welcome when they honor the text's sacred intent and sincerity and support verbatim memorization.
+
 ## Recording
 - Chapter issue:
 - Book / chapter / verse range:
@@ -16,7 +18,8 @@ title: "[Recording] Book chapter — version"
 - Source edition / approved text reference:
 - Generator / model / version, or human performance:
 - Creation date / relevant plan and terms:
-- Full musical prompt:
+- Full musical prompt (AI-assisted work only):
+- Human composition/performance credits, if applicable:
 - Settings / editing / reference materials:
 
 ## Permissions

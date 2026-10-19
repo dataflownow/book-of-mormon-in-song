@@ -21,8 +21,9 @@
 - Human / AI-assisted / mixed:
 - Generator / model / version:
 - Plan and terms applying when generated:
-- Full musical prompt:
+- Full musical prompt (AI-assisted work; otherwise not applicable):
 - Exact lyrics input: attach only if public posting is permitted; otherwise identify the approved source and authorized review copy.
+- Composition / performance credits:
 - Duration / settings / editing:
 - Reference audio and permissions:
 - Original master preserved by:

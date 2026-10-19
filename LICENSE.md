@@ -1,5 +1,7 @@
 # Licensing status
 
+This is a volunteer effort, not for profit. That purpose does not itself determine the reuse rights of the scripture text or recordings.
+
 No blanket open-content or open-source license has been selected for this repository.
 
 Scripture text retains its source edition's rights status. Audio, artwork, performances, and references require their own documented permissions. Generator terms and contributor permissions may affect distribution.

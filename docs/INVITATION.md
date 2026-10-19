@@ -4,11 +4,13 @@ Adapt this for recruiting. Add a pilot listening link only after its sharing per
 
 ---
 
-I tried setting the exact words of Mosiah chapter 2 to music using ElevenLabs. The result was beautiful enough that I want to see whether we can do the entire Book of Mormon together.
+I tried setting the exact words of Mosiah chapter 2 to music. The result was beautiful enough that I want to see whether we can do the entire Book of Mormon together.
 
 The idea is simple: preserve the scripture text word for word and create beautiful music that makes it easier to listen, remember, and learn by heart.
 
-I'm imagining folk, acoustic, orchestral, and sacred settings with clear, carefully enunciated singing. Solo voices are welcome, with room for different musical interpretations.
+This is a volunteer effort, not for profit. Its primary purpose is memorization of the verbatim text; being enjoyable to listen to is a welcome plus.
+
+Use any music tool, compose and perform it yourself, or combine approaches. Any musical style is welcome. The music needs to honor the sacred intent and sincerity of the text and the spirit of the Book of Mormon, with words clear enough to learn by heart.
 
 We're starting with a small pilot team. You can help make music, verify every word, check pronunciation and clarity, or organize chapter assignments. You do not need to be a programmer—or a musician—to contribute.
 

@@ -1,10 +1,12 @@
 # The Book of Mormon in Song
 
-**The complete Book of Mormon set to beautiful, memorable music—with the exact words, clearly sung.**
+**The complete Book of Mormon set to music to help people memorize its verbatim text, honoring its sacred intent, sincerity, and spirit.**
 
-This is a volunteer project for people who want to hear, remember, and learn scripture through music. It began with an ElevenLabs experiment setting Mosiah chapter 2 to music. The next step is to bring together people who can create music, listen carefully, and help build a complete collection.
+This is a **volunteer effort, not for profit**. Its primary purpose is to help people memorize the verbatim text of the Book of Mormon through music. Being beautiful and enjoyable to listen to is a welcome plus; faithful wording, clear delivery, and usefulness for memorization lead the project.
 
-Our musical direction is folk, acoustic, orchestral, inspirational, and sacred. Solo voices are welcome; choral singing is optional. The words lead the music.
+It began with a Mosiah chapter 2 experiment. We welcome contributions made with any music tool, human composition and performance, or a combination of approaches.
+
+Contributors may choose any musical style, instruments, voices, arrangement, or production method. The creative standard is that the music honors the sacred intent and sincerity of the text and the spirit of the Book of Mormon.
 
 ## Join in
 
@@ -21,11 +23,12 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md). You can participate entirely thro
 
 - Every scripture word preserved, in its original order.
 - Clear, well-enunciated singing suitable for memorization.
-- Beautiful, singable melodies that follow the prose.
+- Musical phrasing and structure that support learning and recall.
+- Sincere settings that honor the sacred text, across musical styles.
 - Complete chapters, divided into shorter movements where useful.
 - Credits, prompts, source information, and review records for every recording.
 
-Different voices and musical approaches are welcome within the [musical guidelines](STYLE_GUIDE.md). Human composition and performance are welcome alongside AI-assisted work.
+The [musical guidelines](STYLE_GUIDE.md) explain the project's purpose and offer practical suggestions. Tools, genres, voice types, and instruments are contributors' choices.
 
 ## First milestone
 
@@ -35,10 +38,10 @@ See the [chapter tracker](chapters/README.md) and [open issues](https://github.c
 
 ## Try making a passage
 
-1. Read the [ElevenLabs quick start and copyable prompt](prompts/sacred-folk.md).
-2. Use wording you have permission to submit to the generator.
-3. Test a short passage before building a whole chapter.
-4. Save the exact prompt, lyrics, model, settings, and original audio.
+1. Choose your own composition, performance, recording, or AI-assisted approach. See the [optional prompting guide](prompts/README.md) if useful.
+2. Use a text source whose permissions support your chosen process.
+3. Test a short passage for clarity and memorability before building a whole chapter.
+4. Save the exact source text and production details; include prompts, models, and settings when applicable.
 5. [Submit your recording](https://github.com/dataflownow/book-of-mormon-in-song/issues/new?template=02-recording.md) when its sharing permissions are confirmed.
 
 ## Current project stage

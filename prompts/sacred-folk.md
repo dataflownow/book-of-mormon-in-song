@@ -1,6 +1,8 @@
 # ElevenLabs sacred folk starter
 
-The suggested prompt for the Mosiah 2 experiment. Record your exact prompt and settings for each submission. This file does not certify an existing recording.
+One optional suggested prompt for the founding Mosiah 2 experiment. The project welcomes any music tool, human composition/performance, and any style that honors the sacred text and supports verbatim memorization. The particular voice, instruments, and exclusions in this example are choices for this experiment, not contribution requirements.
+
+See the [general prompting guide](README.md). Record your exact prompt and settings when submitting AI-assisted work. This file does not certify an existing recording.
 
 ## First test
 

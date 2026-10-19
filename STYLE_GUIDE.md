@@ -1,27 +1,44 @@
 # Musical guidelines
 
-Beautiful, memorable, sacred music with clear words. Folk, acoustic, chamber, orchestral, and inspirational settings are welcome. Solo male or female voices are welcome; choral singing is optional. The initial direction favors a timeless acoustic sound; pop production is outside the initial collection's direction.
+## Purpose
 
-## Voice
+This is a volunteer effort, not for profit. Its primary purpose is to help people memorize the verbatim text of the Book of Mormon through music. Being beautiful and enjoyable to listen to is a welcome plus.
 
-Bring the singer forward and keep accompaniment beneath the words. Use clear consonants, complete words, natural English stresses, and room to breathe at punctuation. Prefer one note per syllable, a comfortable range, and restrained ornamentation.
+The creative standard is that the music honors the sacred intent and sincerity of the text and the spirit of the Book of Mormon.
 
-Keep reverberation, overlapping voices, heavy vibrato, and vocal runs from obscuring the text. Agree on unfamiliar name pronunciations in the chapter issue before final review.
+## Creative freedom
 
-## Melody
+All musical styles, instruments, voice types, arrangements, and production approaches are welcome when they serve that purpose. Contributions can be composed, performed, and recorded by people, made with any AI music tool, or developed through a combination of methods.
 
-Use memorable melodic motifs while letting rhythm and phrase length follow the prose. Gentle melodic recitative can accommodate longer clauses, with tuneful phrases returning at natural cadences.
+Contributors choose the sound. The project's criteria are sincere treatment of the sacred text, verbatim wording, clear delivery, and usefulness for memorization.
 
-Through-composed settings are a useful starting point. Do not add choruses, refrains, extra words, humming, or ad-libs. Repetitions already present in scripture stay as written.
+## Verbatim text and coverage
 
-Keep introductions and transitions brief. Divide long chapters into movements with documented verse boundaries. Never fade out over unfinished lyrics.
+Use the agreed source edition and preserve every word in its original order. Do not paraphrase, modernize, substitute, omit, or add lyrics. Repetitions already present in scripture remain as written.
 
-## Text and meaning
+The main chapter sequence should present the text without added lyrical refrains or unmarked repetition, so learners can follow its actual progression. Let the music accommodate the text. Give a rushed passage more time or divide it into movements.
 
-Preserve the selected source exactly. Do not modernize archaic wording, paraphrase, compress, or substitute synonyms. Give rushed passages more time or divide them; never solve a musical problem by rewriting scripture.
+Document movement boundaries and verify that the complete chapter has no gaps or unintended overlap. Do not cut off or obscure unfinished words.
 
-Let the passage guide its emotional character: tenderness, gratitude, courage, grief, solemnity, and hope all have a place. Inspirational need not mean a constant dramatic climax.
+## Practical suggestions
 
-## Variety
+These are options to try, rather than required musical techniques:
 
-Keep each chapter coherent, without requiring one voice or arrangement for the entire collection. Human compositions, performances, and other tools are welcome when their permissions support the planned use. Describe musical qualities directly rather than requesting an artist's identity or voice.
+- Clear consonants, natural word stresses, and breaths at meaningful punctuation.
+- Memorable motifs, rhythms, or other musical cues that support recall.
+- One note per syllable where that helps intelligibility.
+- Flexible phrase lengths that accommodate the prose.
+- Accompaniment, effects, and vocal layering balanced so the words remain clear.
+- Agreed pronunciations for unfamiliar names.
+- Introductions and transitions proportionate to the memorization purpose.
+
+Solo singing, choral arrangements, ensembles, acoustic instruments, electronic sounds, and other approaches can each serve the project. Review the result for its sincerity, clarity, and help with recall.
+
+## Review priorities
+
+1. Does the setting honor the sacred intent and sincerity of the text and the spirit of the Book of Mormon?
+2. Are the words verbatim, complete, correctly ordered, and clearly delivered?
+3. Does the musical treatment support memorization?
+4. What would make it more enjoyable to listen to without compromising those aims?
+
+The [prompting guide](prompts/README.md) includes an optional brief and a link to the founding ElevenLabs experiment's suggested prompt. Those examples do not set project-wide stylistic or tool requirements.

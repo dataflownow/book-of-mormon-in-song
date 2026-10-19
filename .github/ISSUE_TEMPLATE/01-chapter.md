@@ -11,7 +11,7 @@ title: "[Chapter] Book chapter"
 - Existing related chapter issue:
 
 ## Musical idea
-Describe the sound, voice, and instruments.
+Describe your approach. Any tool, human composition/performance, and any musical style are welcome when the setting honors the sacred intent and sincerity of the text and the spirit of the Book of Mormon, and supports verbatim memorization.
 
 ## Source and timing
 - Proposed source edition (project selection is pending):

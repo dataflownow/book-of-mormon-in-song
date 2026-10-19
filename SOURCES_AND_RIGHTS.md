@@ -4,11 +4,14 @@
 | --- | --- |
 | Authoritative project text edition | Pending |
 | Public text redistribution | Pending source decision and rights documentation |
-| ElevenLabs archive and downloads | Written clarification needed for this project |
+| Public distribution of each recording | Document permissions for its actual creation method and source |
+| Recordings made with ElevenLabs | Provider-specific clarification pending; ElevenLabs is optional |
 | Streaming distribution | Confirm platform and contributor plan permissions |
 | Audio reuse license | Not selected |
 
 Track the [text edition decision](https://github.com/dataflownow/book-of-mormon-in-song/issues/6) and [audio distribution clarification](https://github.com/dataflownow/book-of-mormon-in-song/issues/7).
+
+This is a volunteer effort, not for profit, and contributions may use any music tool or human composition and performance. Review each contribution under the terms and permissions that actually apply to its source and creation method. Questions specific to ElevenLabs concern only recordings made with that service.
 
 Organizing, sharing prompts, and planning chapters can proceed while these decisions are resolved. Do not post scripture text or audio here until the relevant public-use basis is documented. This page records status, not legal clearance.
 
@@ -20,7 +23,7 @@ For a modern Church-sourced text, clarify the proposed use through the [permissi
 
 Before adding source text, record edition, publication details, stable source reference, editorial material included/excluded, rights basis, date checked, and any territorial or attribution limits.
 
-## ElevenLabs recordings
+## Recordings made with ElevenLabs (optional tool)
 
 The [Music Terms](https://elevenlabs.io/music-terms), checked October 19, 2026 (UTC), restrict Music Libraries in section 4.2. Section 4.8(f) defines this category broadly, including collections offered for download or reuse without payment. Music streaming distribution is treated separately, with plan-dependent permissions.
 
@@ -30,7 +33,7 @@ Ask ElevenLabs to address volunteer contributions from separate accounts, public
 
 ## Contributions
 
-Record the tool, terms, account plan, and creation date for each recording. Obtain permissions for outside performances, voice references, and other materials. Contributors may grant only rights they hold.
+For human recordings, document composition/performance credits and contributor permissions. For AI-assisted recordings, record the actual tool, terms, account plan, and creation date. Obtain permissions for outside performances, voice references, and other materials. Contributors may grant only rights they hold.
 
 Document public listening, downloading, and reuse separately. An accessible link does not authorize copying or relicensing. Do not publish private correspondence or personal details without permission.
 

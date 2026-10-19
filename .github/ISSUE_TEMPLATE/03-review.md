@@ -8,7 +8,7 @@ title: "[Review] Book chapter — version"
 - Chapter or recording issue:
 - Exact version / filename / permitted listening link:
 - Source edition/reference:
-- Review type: text / pronunciation / music / coverage
+- Review type: text / pronunciation / memorization / sacred intent and sincerity / music / coverage
 - Reviewer and date:
 
 ## Findings

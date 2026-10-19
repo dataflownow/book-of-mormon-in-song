@@ -21,20 +21,22 @@ Copy this checklist into a review issue or comment. Identify the exact version r
 ## Music and clarity
 
 - [ ] Words remain clear without reading along.
-- [ ] Melodies are singable and memorable.
+- [ ] Musical structure, phrasing, and pacing support learning and recall.
 - [ ] Natural stresses and sentence meaning are preserved.
 - [ ] Pacing gives long clauses enough room.
 - [ ] Accompaniment and effects do not mask the voice.
-- [ ] The sound fits the musical guidelines.
+- [ ] The setting honors the sacred intent and sincerity of the text and the spirit of the Book of Mormon.
 - [ ] Introductions and transitions are proportionate.
 - [ ] No clipping, abrupt cutoff, or fade obscures unfinished words.
+
+Musical style, tool, instrumentation, and voice type are not acceptance criteria. Note ways to improve listening enjoyment as suggestions, with verbatim memorization remaining the primary purpose.
 
 ## Publication
 
 - [ ] Text source and public-use rights are documented.
 - [ ] Audio rights cover the proposed distribution.
 - [ ] Credits, AI assistance, and required attribution are recorded.
-- [ ] Prompt and production metadata are preserved.
+- [ ] Source and production metadata are preserved, including AI prompts/model details when applicable.
 - [ ] A maintainer confirms the publication decision.
 
 ## Findings
